@@ -28,7 +28,7 @@ This is an individual submission.
 | Name | Role |
 |------|------|
 | **Khrisean Stewart** | Developer |
-
+| **Anesia Edwards** | Developer |
 ---
 
 ## ⚠️ Late Submission Notice  
