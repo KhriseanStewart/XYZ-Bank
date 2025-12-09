@@ -35,5 +35,3 @@ This is an individual submission.
 This assignment was completed and submitted **1–2 weeks late** due to the recent hurricane that caused power and internet outages.
 
 Thank you for your understanding.
-
-## 📂 File Structure
